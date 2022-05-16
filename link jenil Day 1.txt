@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Type-2 Link</title>
+</head>
+<body>
+<a href="mailto:jenilpatel364@gmail.com">Mail</a>
+
+</body>
+</html>

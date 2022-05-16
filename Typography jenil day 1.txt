@@ -1,0 +1,32 @@
+<html>
+
+<head>
+<title>type-1 typography</title>
+</head>
+<body>
+<h1>Jenil patel<h1>
+<h2>Jenil patel<h2>
+<h3>Jenil patel<h3>
+<h4>Jenil patel<h4>
+<h5>Jenil patel<h5>
+<h6>Jenil patel<h6>
+<hr/>
+<b>patel</b><hr/>
+<strong>patel</strong><hr/>
+<i>patel</i><hr/>
+<em>patel</em><hr/>
+<dfn>patel</dfn><hr/>
+<u>vinay</u><hr/>
+<ins>jenil</ins><hr/>
+<s>Jenil</s><hr/>
+<del>Jenil</del><hr/>
+<span>H<sub>2</sub>o</span>
+<span>H<sup>2</sup>o</span><hr/>
+<div>Jenil</div>
+<div>Jenil</div>
+
+
+</body>
+</html>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
